@@ -1,0 +1,27 @@
+# Keil MDK 编译输出
+Project/Objects/
+Project/Listings/
+*.o
+*.crf
+*.d
+*.dep
+*.lnp
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.build_log.htm
+*.plg
+*.bak
+*.orig
+
+# Keil 用户界面布局等个人文件
+*.uvguix.*
+
+# 编辑器 / 系统临时文件
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+*.tmp
